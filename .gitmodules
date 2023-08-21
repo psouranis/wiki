@@ -1,3 +1,6 @@
 [submodule "kubernetes-for-developers"]
 	path = kubernetes-for-developers
 	url = https://github.com/WilliamDenniss/kubernetes-for-developers.git
+[submodule "data-pipelines-pocket-reference"]
+	path = data-pipelines-pocket-reference
+	url = https://github.com/jamesdensmore/datapipelinesbook

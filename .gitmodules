@@ -9,7 +9,7 @@
 	url = https://github.com/PacktPublishing/Data-engineering-with-dbt
 [submodule "awesome-devsecops"]
 	path = awesome-devsecops
-	url = https://github.com/psouranis/awesome-devsecops.git
+	url = https://github.com/devsecops/awesome-devsecops.git
 [submodule "machine-learning-for-production"]
 	path = machine-learning-for-production
 	url = https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public.git
@@ -18,4 +18,4 @@
 	url = https://github.com/aws/amazon-sagemaker-examples.git
 [submodule "micrograd"]
 	path = micrograd
-	url = https://github.com/psouranis/micrograd.git
+	url = https://github.com/karpathy/micrograd.git

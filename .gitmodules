@@ -4,3 +4,6 @@
 [submodule "data-pipelines-pocket-reference"]
 	path = data-pipelines-pocket-reference
 	url = https://github.com/jamesdensmore/datapipelinesbook
+[submodule "data-engineering-with-dbt"]
+	path = data-engineering-with-dbt
+	url = https://github.com/PacktPublishing/Data-engineering-with-dbt

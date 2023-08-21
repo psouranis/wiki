@@ -16,3 +16,6 @@
 [submodule "amazon-sagemaker"]
 	path = amazon-sagemaker
 	url = https://github.com/aws/amazon-sagemaker-examples.git
+[submodule "micrograd"]
+	path = micrograd
+	url = https://github.com/psouranis/micrograd.git

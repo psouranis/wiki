@@ -22,3 +22,6 @@
 [submodule "data-engineering-zoomcamp"]
 	path = data-engineering-zoomcamp
 	url = https://github.com/DataTalksClub/data-engineering-zoomcamp.git
+[submodule "data-pipelines-with-apache-airflow"]
+	path = data-pipelines-with-apache-airflow
+	url = https://github.com/BasPH/data-pipelines-with-apache-airflow.git

@@ -1,4 +1,4 @@
-# My wiki of knowledge
+# My wiki 
 ## Table of contents
 | Directory | Description |
 |---|---|
@@ -11,3 +11,6 @@
 | machine-learning-for-production | Material from Machine Learning from Production (Coursera) | 
 | masters | Material from Masters studies | 
 | micrograd | Karpathy's micrograd repo | 
+| data-pipelines-with-apache-airflow | Code for book Data Pipelines with Apache Airflow | 
+| data-pipelines-pocket-reference | Code for book Data Pipelines for Pocket Reference |
+

@@ -25,3 +25,6 @@
 [submodule "data-pipelines-with-apache-airflow"]
 	path = data-pipelines-with-apache-airflow
 	url = https://github.com/BasPH/data-pipelines-with-apache-airflow.git
+[submodule "high-performance-python"]
+	path = high-performance-python
+	url = https://github.com/mynameisfiber/high_performance_python_2e.git

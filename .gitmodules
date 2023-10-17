@@ -28,3 +28,6 @@
 [submodule "high-performance-python"]
 	path = high-performance-python
 	url = https://github.com/mynameisfiber/high_performance_python_2e.git
+[submodule "fluent-python"]
+	path = fluent-python
+	url = https://github.com/fluentpython/example-code-2e.git
